@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ma Localisation</string>
+    <string name="title_main">Ma Position GPS</string>
+    <string name="label_latitude">Latitude : %1$.6f</string>
+    <string name="label_longitude">Longitude : %1$.6f</string>
+    <string name="waiting_location">En attente de position...</string>
+    <string name="btn_show_map">Voir sur la carte</string>
+
+    <string name="provider_enabled">Le fournisseur %s est maintenant active</string>
+    <string name="provider_disabled">Le fournisseur %s est maintenant desactive</string>
+    <string name="provider_new_status">Le fournisseur %1$s a maintenant un nouveau statut %2$s</string>
+    <string name="new_location">Nouvelle Position : Latitude = %1$.6f, Longitude = %2$.6f, Altitude = %3$.2f avec une precision de %4$.1f metres</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
